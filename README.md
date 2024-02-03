@@ -10,7 +10,7 @@
 
 |사진|설명|
 |---|---|
-|<img src="https://github.com/EvelynKimm/KNUNoticeBot/assets/108613992/f3b11585-aafc-4024-9290-98baffb2b37b.png" width="80%" height="80%"/>|▷ '오늘의 공지사항 알아보기' 버튼을 통해 현재까지 오늘 날짜로 업로드된 공지사항을 확인할 수 있습니다. <br/><br/>▷ 공지가 2개 이상인 경우, 커리셀 형태로 확인이 가능합니다.|
+|<img src="https://github.com/EvelynKimm/KNUNoticeBot/assets/108613992/6755270b-8a8c-4c27-9bc4-e5f05c8907cf.png" width="80%" height="80%"/>|▷ '오늘의 공지사항 알아보기' 버튼을 통해 현재까지 오늘 날짜로 업로드된 공지사항을 확인할 수 있습니다. <br/><br/>▷ 공지가 2개 이상인 경우, 커리셀 형태로 확인이 가능합니다.|
 |<img src="https://github.com/EvelynKimm/KNUNoticeBot/assets/108613992/591f66df-6c04-4819-8661-90b1a4082f36.png" width="80%" height="80%"/>|▷ 오늘 날짜로 업로드된 게시물이 없다면 에외 메시지를 출력합니다.|
 
 <br/>
