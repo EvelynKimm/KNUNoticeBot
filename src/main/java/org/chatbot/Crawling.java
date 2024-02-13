@@ -21,8 +21,8 @@ public class Crawling {
 
 
         try {
-            String baseUrl = "https://wwwn.kangwon.ac.kr"; // 웹사이트의 기본 URL
-            String path = "https://wwwn.kangwon.ac.kr/www/selectBbsNttList.do?bbsNo=81&key=277&searchCtgry=%EC%A0%84%EC%B2%B4%40%40%EC%B6%98%EC%B2%9C&"; // 크롤링할 페이지의 경로
+            String baseUrl = "https://wwwk.kangwon.ac.kr"; // 웹사이트의 기본 URL
+            String path = "https://wwwk.kangwon.ac.kr/www/selectBbsNttList.do?bbsNo=81&key=277&searchCtgry=%EC%A0%84%EC%B2%B4%40%40%EC%B6%98%EC%B2%9C&"; // 크롤링할 페이지의 경로
 
             Document doc = Jsoup.connect(path).timeout(7000).get();
             Elements noticeRows = doc.select("tbody.tb > tr");
