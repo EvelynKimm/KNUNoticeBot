@@ -7,8 +7,9 @@ import java.util.Map;
 import org.json.JSONObject;
 
 public class SimpleHandler implements RequestHandler<Map<String, Object>, String> {
-
     public String handleRequest(Map<String, Object> input, Context context) {
+        FunctionCheck.handler();
+
         LambdaLogger logger = context.getLogger();
         try {
             String result = Crawling.crawling();
